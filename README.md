@@ -9,7 +9,7 @@
 - 🔭 I am studying at [China West Normal University](https://www.cwnu.edu.cn/)  
   
 
-- 🌱 I’m currently learning RPC and muduo  
+- 🌱 I’m currently learning RPC and MIT6.824  
   
 
 - ❓ Ask me about anything related to C++ and related Multi-threaded network programming  
