@@ -3,14 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Monifeng 😀, a computer science student graduating in 2024 and looking for an internship💻</div>  
-  
+### <div align="center">I'm Monifeng 😀</div>  
 
-- 🔭 I am studying at [China West Normal University](https://www.cwnu.edu.cn/)  
-  
-
-- 🌱 I’m currently learning RPC and MIT6.824  
-  
 
 - ❓ Ask me about anything related to C++ and related Multi-threaded network programming  
   
